@@ -2,6 +2,8 @@ UCM TOOL Project
 =================
 University project for class COMP 354
 
+All design and documentation is in [COMP_354_Project_Design_Document_v_1.7.pdf] (https://github.com/JoseLSG/2008-UCM-Tool/blob/master/COMP_354_Project_Design_Document_v_1.7.pdf) file.
+
 Team 10:
 - Jose Luis Saldivar 
 - Juan Jose Balcazar
