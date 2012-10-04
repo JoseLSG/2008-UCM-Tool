@@ -1,0 +1,32 @@
+<xml>
+      <object>
+          <name>Riosuke</name>
+          <password>123</password>
+          <userType>CEO</userType>
+      </object>
+      <object>
+         <name>Jose</name>
+         <password>123</password>
+         <userType>CEO</userType>
+     </object>
+     <object>
+         <name>Juan</name>
+         <password>1234</password>
+         <userType>Power</userType>
+     </object>
+     <object>
+         <name>Kien</name>
+         <password>1234</password>
+         <userType>Market</userType>
+     </object>
+     <object>
+         <name>Dider</name>
+         <password>1234</password>
+         <userType>CEO</userType>
+     </object>
+          <object>
+         <name>Admin</name>
+         <password>Admin</password>
+         <userType>Power</userType>
+     </object>
+</xml>

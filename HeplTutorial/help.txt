@@ -1,0 +1,94 @@
+Help
+
+Ø      Getting Started
+
+This UCM_CaseTool is an interesting tools software for drawing use case
+ maps and scenarios. It is using by
+
+Software Solution Company. There are three kinds of basic users for 
+these tools. Each user has defined access.
+
+a.      Power user has access to all functionality.
+
+b.      Marketing user has access to see different view and renaming level.
+
+c.       CEO user has access to view the map.
+
+ 
+
+  
+
+Ø      Log in
+
+Open the UCM Case Tool.  Put user name and password and press ok.
+
+Ø      Create New map
+
+ Select a component or a responsibility from the right side button.
+
+To draw responsibility: click left button of mouse at the position you want
+ to draw the responsibility.
+
+To draw component:  select the component button and then click on a point drag
+ it up to the end point of the component.
+
+To draw line: You can draw a line only when you have two points. A pint could 
+be a responsibility or a point showing aground the windows
+
+ 
+
+Ø      Edit map
+
+
+o       Tools
+
+·   Component: you can draw as many component as you want. If you would like to 
+delete a component, just select that and press delete. That’s how we can 
+add/delete any component.
+
+·   Responsibility: a responsibility can be drawn in side or out side a component.
+ Also you can delete or add as may responsibility as you want. To delete a
+ responsibility, just select that and press delete.
+
+·   Line: a line can be draw form any point to point or responsibility to point.
+
+Ø	Edit Labels: 
+
+Ø      Views
+
+ See Requirement specification.
+
+Ø      Save map
+
+It is easy to save a map when you are done with drawing map. 
+Go to File>> save >> locate the path where you would like to save the file and
+ enter the name of the file then press>> OK. The file will save as .ucm format.
+
+ 
+
+Ø      Load map: to lode a map from a .ucm file you have to open UCM_caseTool
+ first. Then go to >> file>> Lode>> locate the file you wish to open. >> press ok.
+
+ The file will be loaded.
+
+ 
+
+Ø      Example
+
+·         Hello map:
+
+ user name: sa_husse
+
+password: 1234
+
+Ø      User functionality details:
+
+o       CEO: See requirement specification documentation. Page no:
+
+o       Marketing: See requirement specification documentation. Page no:
+
+o       End User: See requirement specification documentation. Page no:
+
+ 
+
+ 
